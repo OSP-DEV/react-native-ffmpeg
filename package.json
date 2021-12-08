@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      "react-native-ffmpeg@0.5.2",
+      "/Users/vishal/Documents/Projects/noda"
+    ]
+  ],
+  "_from": "react-native-ffmpeg@0.5.2",
+  "_id": "react-native-ffmpeg@0.5.2",
+  "_inBundle": false,
+  "_integrity": "sha512-YxKWI9kPo4nDtAzNO+MIMIu56rfaixJrviQBKvdvmFD09oWH0GhKurJ+uJOvTbN3T7eEYCE0kUzK1puPDsniAA==",
+  "_location": "/react-native-ffmpeg",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-ffmpeg@0.5.2",
+    "name": "react-native-ffmpeg",
+    "escapedName": "react-native-ffmpeg",
+    "rawSpec": "0.5.2",
+    "saveSpec": null,
+    "fetchSpec": "0.5.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-ffmpeg/-/react-native-ffmpeg-0.5.2.tgz",
+  "_spec": "0.5.2",
+  "_where": "/Users/vishal/Documents/Projects/noda",
+  "author": {
+    "name": "Taner Sener",
+    "email": "tanersener@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/tanersener/react-native-ffmpeg/issues"
+  },
+  "description": "FFmpeg for React Native",
+  "homepage": "https://github.com/tanersener/react-native-ffmpeg#readme",
+  "keywords": [
+    "react-native",
+    "ffmpeg",
+    "android",
+    "ios"
+  ],
+  "license": "LGPL-3.0",
+  "main": "index.js",
+  "name": "react-native-ffmpeg",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanersener/react-native-ffmpeg.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "typings": "index.d.ts",
+  "version": "0.5.2"
+}
